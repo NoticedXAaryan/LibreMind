@@ -3,8 +3,8 @@
 
 # Current project's:
 
-#1.LibreMind-Distro
+# 1.LibreMind-Distro
 A Linux distribution designed to enhance AI capabilities and streamline data science workflows for increased ease and efficiency.
 
-#2.Youtube Downloader
+# 2.Youtube Downloader
 
