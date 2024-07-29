@@ -14,7 +14,6 @@ Practice real-world tasks and gain practical skills.
 LibreMind runs efficiently even on modest hardware.
 - Persistent Booting (OS on the Go):
 Carry your operating system with you wherever you go.
-<br>
 ### Installation Instructions:
 - Download the LibreMind ISO from our website.
 - Create a bootable USB drive using tools like Rufus or Etcher.
