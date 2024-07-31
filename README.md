@@ -1,4 +1,4 @@
-###NOTE : This project is under delopment and will be updated before 15-08-2024
+### NOTE : This project is under delopment and will be updated before 15-08-2024
 ### LibreMind
 LibreMind is a visionary project founded by Aaryan Kumar Tiwari under the big project NOTICED SOLUTION. The name itself reflects its essence: “Libre” means “free,” and “Mind” emphasizes both freedom and intelligence. This ambitious endeavor aims to create a pre-configured Linux distribution that helps beginners explore the Linux environment. It also provides free courses with pre-mapped content, allowing beginners to develop and improve their skills.
 
